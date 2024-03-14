@@ -27,8 +27,11 @@
 
 ### My Stack:
 
-<a href="#"><img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&labelColor=black&color=5382a1"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&labelColor=black&color=orange"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=Spring&labelColor=black&color=green&logoColor=green"/></a>
 
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&labelColor=white&color=0064a5"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Teradata-blue?style=for-the-badge&logo=teradata&labelColor=black&color=orange"></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
