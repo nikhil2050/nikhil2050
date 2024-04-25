@@ -5,9 +5,9 @@
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil2050/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshpandey002)
 [![Dev.to Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nik_kshirsagar/)
-[![Dev.to Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=HumbleBundle&logoColor=white)](https://www.harshkumarpandey.com/)
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshpandey002) -->
+<!--  [![Dev.to Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=HumbleBundle&logoColor=white)](https://www.harshkumarpandey.com/) -->
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nikhil2050&base=100&abbreviated=true)
 
